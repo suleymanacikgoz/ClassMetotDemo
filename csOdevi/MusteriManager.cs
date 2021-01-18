@@ -11,7 +11,7 @@ namespace csOdevi
         {
 
 
-        Console.WriteLine("müşteri eklendi." );
+        Console.WriteLine(x.musteriAdi +" müşterisi eklendi." );
 
             
         }
@@ -19,7 +19,7 @@ namespace csOdevi
         {
 
 
-            Console.WriteLine("müşteri silindi.");
+            Console.WriteLine(x.musteriAdi + " müşterisi silindi.");
 
 
         }

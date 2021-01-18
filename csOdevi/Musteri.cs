@@ -8,6 +8,6 @@ namespace csOdevi
     {
         public string musteriAdi { get; set; }
         public string musteriSoyadi { get; set; }
-        public int musteriID { get; set; }
+        public int musteriId { get; set; }
     }
 }

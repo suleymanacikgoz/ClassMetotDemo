@@ -13,7 +13,7 @@ namespace csOdevi
             Musteri musteri2 = new Musteri();
             musteri2.musteriAdi = "Gökhan";
             musteri2.musteriSoyadi = "Aydın";
-            musteri2.musteriID = 75;
+            musteri2.musteriID = 74;
             Musteri musteri3 = new Musteri();
             musteri3.musteriAdi = "Süleyman";
             musteri3.musteriSoyadi = "Açıkgöz";
